@@ -67,7 +67,7 @@ Consulte o arquivo: [**CONTRIBUTING.md**](/ionicnewsdocs/CONTRIBUTING.md)
 ## Autores
 
 WESLLEY MATHEUS GOMES FREIRE FERREIRA
-
+EMILY VITÓRIA LACERDA DA SILVA
 ## Licença
 
 Este projeto é licenciado sob a Licença creative commons. Veja o arquivo `LICENSE`.
